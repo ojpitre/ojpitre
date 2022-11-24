@@ -1,6 +1,6 @@
 ### Hi there 🤖
 
-I'm an engineer specialized in building artificial intelligence solutions that are more human than human. 
+I'm an **Engineer** specialized in *building* **Artificial Intelligence** solutions using **Microsoft Azure** technologies.
 
 <!--
 **ojpitre/ojpitre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
