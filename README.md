@@ -1,6 +1,4 @@
-### Hi there 🤖
-
-I'm an **Engineer** specialized in *building* **Artificial Intelligence** solutions using **Microsoft Azure** technologies.
+Jean-Olivier Pitre | **Engineer** specialized in *building* **Artificial Intelligence** solutions using **Microsoft Azure** technologies.
 
 <!--
 **ojpitre/ojpitre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
