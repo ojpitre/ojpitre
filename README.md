@@ -1,12 +1,10 @@
 **Engineer** specialized in *building* **Artificial Intelligence** solutions using **Microsoft Azure** technologies.
 
-![OJpitre's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojpitre&show_icons=true&hide_rank=true&include_all_commits&show_owner&theme=react)
-
-
-
 
 <!--
 **ojpitre/ojpitre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![OJpitre's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojpitre&show_icons=true&hide_rank=true&include_all_commits&show_owner&theme=react)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojpitre&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
