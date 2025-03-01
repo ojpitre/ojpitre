@@ -1,4 +1,4 @@
-**Engineer** specialized in *building* **Artificial Intelligence** solutions using **Microsoft Azure** technologies.
+**Engineer** specialized in *building & securing* **Cloud Infrastructures** using **Microsoft** technologies.
 
 
 <!--
